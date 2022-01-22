@@ -28,7 +28,7 @@ body {
 }
 .calculator-grid > button:hover,
 .calculator-grid > button:focus {
-	background: rgba(255, 255, 255, 0.9);
+	background: rgb(140, 255, 9);
 }
 .span-two {
 	grid-column: span 2;
